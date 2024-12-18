@@ -22,3 +22,11 @@
 - Los agentes están programados para moverse hacia objetivos predefinidos.
 - Puedes agregar más agentes y objetivos en la escena para observar su comportamiento.
 
+## Primer Commit
+- subido unicamente el proyecto sin modificacion
+
+## Segundo Commit
+- subido un script de prueba
+
+## Tercer Commit
+Imagen de prueba
