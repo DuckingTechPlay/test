@@ -114,6 +114,6 @@ public class Player : MonoBehaviour
 
 ## Imagen de prueba
 
-![Imagen de prueba]([Navigation Bake/Assets/Iluminados_1.jpg](https://github.com/DuckingTechPlay/test/blob/master/Navigation%20Bake/Assets/Iluminados_1.jpg))
+![Imagen de prueba](https://github.com/DuckingTechPlay/test/blob/master/Navigation%20Bake/Assets/Iluminados_1.jpg)
 
 
