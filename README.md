@@ -27,7 +27,8 @@
 
 ## Segundo Commit
 - subido un script de prueba, movimiento por puntos de patrulla.
-  ```using System.Collections.Generic;
+  ```
+  using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
@@ -108,7 +109,8 @@ public class Player : MonoBehaviour
         return new Vector3(Random.Range(min.x, max.x), 0, Random.Range(min.z, max.z));
     }
 }
-´´´
+
+```
 
 ## Tercer Commit
 Imagen de prueba
