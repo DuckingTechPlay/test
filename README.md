@@ -110,8 +110,10 @@ public class Player : MonoBehaviour
     }
 }
 
-## Tercer Commit
-Imagen de prueba
+# Tercer Commit
 
-!(Navigation Bake/Assets/Iluminados_1.jpg)
+## Imagen de prueba
+
+![Imagen de prueba](Navigation\ Bake/Assets/Iluminados_1.jpg)
+
 
